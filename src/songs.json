@@ -35,7 +35,7 @@
       "id": 3,
       "title": "Wodaj",
       "artist": "Abenezer Tadesse",
-      "key": "",
+      "key": "Dm",
       "sections": [
         { "name": "Intro", "chords": "2 | 3 | 1 6 | 2 — 2 | 4 3 | 1 6 | 2" },
         { "name": "Amlak Alegn", "chords": "2 | 6 | 6 | 2 — 2 | 6 | 4 5 | 2" },
@@ -61,7 +61,7 @@
       "id": 5,
       "title": "Ye Kribe",
       "artist": "Bereket Tesfaye",
-      "key": "",
+      "key": "F",
       "sections": [
         { "name": "Intro", "chords": "2 | 1 | 2 | — 6 | 1 | 5 — 2 | 1 | 2–6 | 1 | 5" },
         { "name": "Ka Sioal Mawitate", "chords": "5 | 6 | 5 1 2 | — 5 | 6 | 5 1 2 |" },
@@ -119,7 +119,7 @@
       "id": 9,
       "title": "Esti Lemisginew",
       "artist": "Dagi Tilahun",
-      "key": "",
+      "key": "A",
       "sections": [
         { "name": "Esti Lemisginew", "chords": "1 | 3 | 2 5 1 | x4" },
         { "name": "Misgana Bizu Misgana", "chords": "1 | 6 | 2 4 5 1 | x2" },
@@ -146,7 +146,7 @@
       "id": 11,
       "title": "Melisegn Wode Mejemeria",
       "artist": "G and B",
-      "key": "",
+      "key": "G#m",
       "sections": [
         { "name": "Intro", "chords": "6 | 3 6 2 2 6" },
         { "name": "Melisegn", "chords": "6 | 2 2 3 2 2 6" },
@@ -159,7 +159,7 @@
       "id": 12,
       "title": "Melkam Neh",
       "artist": "Lily Tilahun",
-      "key": "",
+      "key": "Cm",
       "sections": [
         { "name": "Intro", "chords": "6 | 3 | 6 | 7 | 6 | 3 | 4 5 6" },
         { "name": "Beygabagnim", "chords": "6 | 3 | 2 | 6 — 6 | 3 | 2" },
@@ -175,7 +175,7 @@
       "id": 13,
       "title": "Agizegn",
       "artist": "Hana Tekle",
-      "key": "",
+      "key": "E",
       "sections": [
         { "name": "Intro", "chords": "| 1 | 4 | 6 | 2 | 4 | 3 | 2 | 1 |" },
         { "name": "Le Wudkat Marote", "chords": "| 1 | 4 | 6 | 2 | 4 | 3 | 2 | 1 |" },
@@ -186,9 +186,9 @@
     },
     {
       "id": 14,
-      "title": "Sammy Tesfamichael",
+      "title": "Yekebere",
       "artist": "Sammy Tesfamichael",
-      "key": "",
+      "key": "Bb",
       "sections": [
         { "name": "Intro", "chords": "5 | 2 | 1 | 2 | — 4 | 3 | 4 | 5" },
         { "name": "Yekebere", "chords": "5 | 3 | 6 | 2 (x2)" },
@@ -216,7 +216,7 @@
       "id": 16,
       "title": "Sinaga Simash",
       "artist": "Daniel Amdemichael",
-      "key": "",
+      "key": "Cm",
       "sections": [
         { "name": "Intro", "chords": "2m x2 | 5 | 2m x2 | 5m x2 | 2m" },
         { "name": "Sinaga Simash", "chords": "2m | 5m | 4 | 2m7 | 2m | 2m | 5 | 2m |" },
@@ -251,7 +251,7 @@
       "id": 19,
       "title": "Meskelh Sir",
       "artist": "Yosef Bekele",
-      "key": "",
+      "key": "D",
       "sections": [
         { "name": "Eske Meskelih", "chords": "1 3 4 4 | 3 5 2 2 | 2 3 4 4 5 5 1" },
         { "name": "Hulu Yalabatin", "chords": "1 4 5 5 4 4 2 | 2 3 4 1 5 5 1" },
@@ -274,7 +274,7 @@
       "id": 21,
       "title": "Fikir Eghzabiher New",
       "artist": "Endalkachaw Hawaz",
-      "key": "",
+      "key": "F",
       "sections": [
         { "name": "Fikr Egz New", "chords": "27th | 67th | 27th | 37th 67th | x2" },
         { "name": "Fikir Naw Egziabher Yamyilawawot", "chords": "4 | 37th | 67th | 27th" }
@@ -299,7 +299,7 @@
       "id": 23,
       "title": "Bante",
       "artist": "Yishak Sedik",
-      "key": "",
+      "key": "Em",
       "sections": [
         { "name": "Intro", "chords": "4 | 3 | 6 | 5 | 4 | 3 | 1 | 2" },
         { "name": "Ene Gin Amlake", "chords": "2 | 1 | 1" },
@@ -313,7 +313,7 @@
       "id": 24,
       "title": "Ende Eyesus",
       "artist": "Bereket Tesfaye",
-      "key": "",
+      "key": "A",
       "sections": [
         { "name": "Edmen Mulu", "chords": "1 | 6 | 5 — 4 | 5 | 1" },
         { "name": "Sew Hulu Nitsu", "chords": "1 | 3 | 6 | 3 | 6 | 5 | 4 5 1 — 1 | 3 | 6 | 3 | 6 | 2m | 4 5 1" },
@@ -338,7 +338,7 @@
       "id": 26,
       "title": "Kitir Sirteh",
       "artist": "Bereket Tesfaye",
-      "key": "",
+      "key": "C - 5th",
       "sections": [
         { "name": "Intro", "chords": "5-6-4-5 x2" },
         { "name": "Kitir Sirteh", "chords": "5 | 3 | 6 | 4 | 2 | 4 | 1 | 5 x4" },
@@ -349,7 +349,7 @@
       "id": 27,
       "title": "Adrashaye",
       "artist": "Tamrat Haile",
-      "key": "",
+      "key": "F#m",
       "sections": [
         { "name": "Intro", "chords": "1 6m | 2m 3m | — 1 6m | 2m7 3m" },
         { "name": "Ba Imbana", "chords": "1 4 | 1 5 | 2m7 3m7 | 4 5 | 1 4 | 6m 5 | 2m7 3m7 | 4 5" },
@@ -389,7 +389,7 @@
       "id": 30,
       "title": "Ahado Elalehu",
       "artist": "Bereket Tesfaye",
-      "key": "",
+      "key": "Bb",
       "sections": [
         { "name": "Intro", "chords": "1 | 6m | 4 | 1 x2" },
         { "name": "Ahado", "chords": "2 | 6m | 4 | 1 x8" },
@@ -401,7 +401,7 @@
       "id": 31,
       "title": "Char Newuna",
       "artist": "",
-      "key": "",
+      "key": "Bb",
       "sections": [
         { "name": "Intro", "chords": "5 | 2 | 1 | 2 | 7/5 | 3 | 6 | 5" },
         { "name": "Char Newuna", "chords": "6 | 5 | 1 | 5 — 6 | 5 | 1 | 6 (x2)" },
