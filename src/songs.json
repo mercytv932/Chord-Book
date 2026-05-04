@@ -51,10 +51,10 @@
       "artist": "Agnew Yideg",
       "key": "B",
       "sections": [
-        { "name": "Intro", "chords": "B1 | D3#m7 | 6G#m7 | E — B1 | 5F# | 6G#m7 | 4E" },
-        { "name": "Ye Hiwot Minch", "chords": "1B | 3D#m7 | 6G#m7 | 1B — 4E | 5F# | B1" },
-        { "name": "Ene Egeremelew", "chords": "4E | F#5 | 2C#m7 | 3D#m7 | 4E 5F# — 6G# | 2C# | 5F# | 3D#7 | 4E" },
-        { "name": "Hale Luya", "chords": "1Bx5 | 4E x2 | 6G# x2 | 1B — 4E | 3D# | 2C# 5F# 1B" }
+        { "name": "Intro", "chords": "B1 | 3 | 6 | 4 —  1 | 5 | 6 | 4" },
+        { "name": "Ye Hiwot Minch", "chords": "1 | 3 | 6 | 1 — 4 | 5 | 1" },
+        { "name": "Ene Egeremelew", "chords": "4 | 5 | 2 | 3 | 4 5  —  6 | 2 | 5 | 3 | 4" },
+        { "name": "Hale Luya", "chords": "1 x5 | 4 x2 | 6 x2 | 1 — 4 | 3 | 2 5 1" }
       ]
     },
     {
@@ -63,7 +63,7 @@
       "artist": "Bereket Tesfaye",
       "key": "F",
       "sections": [
-        { "name": "Intro", "chords": "2 | 1 | 2 | — 6 | 1 | 5 — 2 | 1 | 2–6 | 1 | 5" },
+        { "name": "Intro", "chords": "2 | 1 | 2 | — 6 | 1 | 5 — 2 | 1 | 2 – 6 | 1 | 5" },
         { "name": "Ka Sioal Mawitate", "chords": "5 | 6 | 5 1 2 | — 5 | 6 | 5 1 2 |" },
         { "name": "Karabagn", "chords": "2 | 1 | 2 | — 6 | 1 | 5 x2" },
         { "name": "Yekirbe", "chords": "2 | 1 | 2 | — 6 | 1 | 5" }
