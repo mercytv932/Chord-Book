@@ -193,3 +193,9 @@ body {
   color: #333;
   font-size: 14px;
 }
+.no-results {
+  text-align: center;
+  color: #444;
+  font-size: 13px;
+  padding: 40px 16px;
+}
