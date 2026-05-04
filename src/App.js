@@ -26,16 +26,19 @@ function App(){
         </div>
 
         <div className="song-list">
-          {filtered.map(song =>(
-            <div key={song.id}
-            className={`song-item ${selected?.id ===song.id ? 'active' : ''}`}
-            onClick={() => setSelected(song)}
-            >
-              <div className="song-name">{song.title}</div>
-              <div className="song-artist">{song.artist}</div>
-              {song.key && <div className="song-key">key: {song.key} </div>}
-            </div>
-          ))}
+          {filtered.length === 0 ? (
+            <div className="no-results">No songs found  🎵</div>
+          ):(
+            filtered.map(song => (
+              <div key={song.id}
+              className={`song-item $ {selected?.id ===song.id? 'active' : ''}`}
+              onClick={() => setSelected(song)}>
+                <div className="song-name">{song.title}</div>
+                <div className="song-artist">{song.artist}</div>
+                {song.key && <div className="song-key">Key: {song.key}</div>}
+              </div>
+            ))
+          )}
         </div>
       </div>
 
