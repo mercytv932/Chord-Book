@@ -1,20 +1,21 @@
 # ♪ ChordBook
 
-A personal chord progression reference app built with React.
+A personal chord progression reference app built with React. Search and browse 140+ Ethiopian worship songs instantly.
 
-## About
-ChordBook is a searchable database of 100+ Ethiopian worship songs with their chord progressions. Built to solve a real problem — no more scrolling through long documents to find chords!
+## The Problem
+Finding chord progressions used to mean scrolling through a long Google Doc. ChordBook solves that — search any song or artist and see the chords instantly.
 
 ## Features
-- 🔍 Search songs by title or artist
-- 🎵 View chord progressions by section
+- 🔍 Search songs by title or artist in real time
+- 🎵 View chord progressions organized by section
 - 🎨 Dark purple/blue music theme
-- 📱 Clean responsive layout
+- 📱 Responsive — works on mobile and desktop
+- 🎶 140+ songs and growing
 
 ## Built With
 - React
 - CSS
-- JSON data
+- JSON
 
 ## Live Demo
 Coming soon...
