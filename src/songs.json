@@ -1313,6 +1313,601 @@
         { "name": "Bridge", "chords": "E | C#m | Em | E | C#m | E" },
         { "name": "Pawlos Ena Silas", "chords": "E | A | C#m7 | G#m7 | E | C#m | F#m7 B E" }
       ]
+    },
+    {
+      "id": 101,
+      "title": "Wulatew Beza",
+      "artist": "Samuel Zergaw - Kingdom Sound",
+      "key": "G",
+      "sections": [
+        { "name": "Intro", "chords": "Dm C Dm C A# F Em — Dm C Dm C Am F G" },
+        { "name": "Ende Ene Manew", "chords": "G Dm G C C F Am Em — D Dm G G A F A G" },
+        { "name": "Wulatew Beza", "chords": "G C C F Am C C G x3" },
+        { "name": "Abet Ende Ene", "chords": "G | F | Am | E G — G | G | Am | C G x2" },
+        { "name": "Verse", "chords": "G Dm G C C F Am Em — D Dm G G A F A G" }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Siwod Geta",
+      "artist": "Addisalem Assefa",
+      "key": "Cm",
+      "sections": [
+        { "name": "Intro", "chords": "2 | 1 5 | 2 | 1 5 | 6 | 2 | 6 | 2" },
+        { "name": "Nefse", "chords": "2 | 1 | 6 | 3 | 6 | 2 — 2 | 1 | 5m 6 | 3 | 6 | 2" },
+        { "name": "Le Zelelam New", "chords": "2 | 2 | 2 | 6 (x4)" },
+        { "name": "Siwod Geta", "chords": "1 | 6 | 1 | 2 (x2)" },
+        { "name": "Bridge", "chords": "2 | 1 | 2 | 3 | 6 | 2 | 6 | 2" },
+        { "name": "Ekul Le Sew Hulu", "chords": "2 1 (x8)" },
+        { "name": "Eska Macharashaw", "chords": "2 | 6 | 3 | 1 3 6 | 2" },
+        { "name": "Zaren Yizogn", "chords": "2 | 1 | 6 | 2 (x4)" }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Yerotuletin Yayutal",
+      "artist": "Hana Tekle",
+      "key": "D",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 6m7 | 4 | 5 — 1 | 6m7 | 4maj7 | 5" },
+        { "name": "Kante Befit", "chords": "1 | 6m7 | 1 | 6m7 | 4 | 3m7 (x2)" },
+        { "name": "Kenga Befit", "chords": "1 | 6m7 | 1 | 6m7 | 4maj7 | 3m7 (x4)" },
+        { "name": "Benefsechaw Yechakenut", "chords": "1 | 5 6m7 | 3m7 | 4m 5" },
+        { "name": "Abet Yerotuletin Yayutal", "chords": "4 | 3m | 1 | 6m7 | 1 — 1 | 5 4" },
+        { "name": "Honaw Yebirinet Beriya", "chords": "1 | 6m7 | 1 | 6m7 | 4maj7 | 3m7 (x4)" }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Menor Alichelim",
+      "artist": "Yosef Kassa",
+      "key": "G",
+      "sections": [
+        { "name": "Intro", "chords": "6 5 2 1 — 6 5 2 1" },
+        { "name": "Huligize Menifekgn", "chords": "1 2 1 2 — 1 2 1 2 1" },
+        { "name": "Atihidibign", "chords": "6 5 2 1 — 6 5 2 1" },
+        { "name": "Bridges/Guitars", "chords": "6 5 2 1 — 6 5 2 1" },
+        { "name": "Setefa Lijh", "chords": "4 3 2 2 — 4 3 2 2 — 4 3 2 2 — 4 3 2 5 1" },
+        { "name": "Zina Habtu", "chords": "1 2 6 5 2 1 (x2)" },
+        { "name": "Ababiye", "chords": "1 3 6 5 1 3 5 5 4 — 1 3 6 5 1 3 5 5 4 1" },
+        { "name": "Fitihen Seyew", "chords": "6 5 2 1 (x4)" },
+        { "name": "Menor Alichelim", "chords": "6 5 2 1 (x8)" }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Lemelkam Honelign",
+      "artist": "Bereket Tesfaye",
+      "key": "F",
+      "sections": [
+        { "name": "Intro", "chords": "5 1 3 1 — 1 3 5" },
+        { "name": "Leka Yetelfa", "chords": "5 | 2 | 1 3 5 x2" },
+        { "name": "Ba Esat", "chords": "5 1 3 1 3 5" },
+        { "name": "Bridge", "chords": "5 1 3 1 — 1 3 5" },
+        { "name": "Geta Hoy", "chords": "5 | 5 1 5 1 2m 2m 2m" },
+        { "name": "Yala Fisfisu", "chords": "5 | 3 1 | 5" }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Demun Lene Afiso",
+      "artist": "Addisu Worku",
+      "key": "Ab",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 4 | 1" },
+        { "name": "Koblilay Neber", "chords": "1 | 1 | 1 | 1 | 1 | 5 | 1 | 4 | 1 | 1 | 4 | 1 | 1 | 5 | 1" },
+        { "name": "Demun", "chords": "1 | 4 | 1 | 1 | 6 2 5 | 1 | 4 | 4 | 1 | 1 | 5 | 1" },
+        { "name": "Bridge", "chords": "1 | 2m | 1" }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Zori Biye Seesaw",
+      "artist": "Suraphel Demissie",
+      "key": "Db",
+      "sections": [
+        { "name": "Ayimesilegnim Neber", "chords": "3m | 6m | 2m | 3m | 4 | 5 | 1 (x2)" },
+        { "name": "Lemesiginechew", "chords": "1 | 6m | 2m | 3m – 1 | 6m | 2m | 3m 2m 5 | 4" },
+        { "name": "Bridge", "chords": "1 2m | 5 1 2m 6m 5 | 3m 2m 1" },
+        { "name": "Ye Hiywote Mebkiya", "chords": "1 4 3m 2m | 1 6m 4 5 | 4" },
+        { "name": "Lekas Geta Wodogn", "chords": "6m 5 | 4 5 5 1" },
+        { "name": "Zori Biye Seyew", "chords": "1 4 3m 2m | 3m 4 — chromatic | 4 chromatic 6m" },
+        { "name": "Lekas Elshadayu", "chords": "3m 2m 6m — 2m 5 1" },
+        { "name": "Simun Akebirelehu", "chords": "1 | 2m 1 — 4 | 3m 2m 1 (x2)" }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Bizu Alu",
+      "artist": "Yosef Kassa",
+      "key": "Eb",
+      "sections": [
+        { "name": "Pre-Intro", "chords": "1 | 1 | 4 | 5 | 1 | 1 | 1" },
+        { "name": "Intro", "chords": "1 | 1 | 4 | 1 — 1 | 1 | 4 | 5" },
+        { "name": "Bizu Alu", "chords": "1 | 4 | 5 | 3m | 1 | 4 | 5 | 1 — 1 | 4 | 1 | 3m | 1 | 4 | 5 | 1 (x2)" },
+        { "name": "Bridge", "chords": "1 | 1 | 4 | 1 — 1 | 1 | 4 | 5" },
+        { "name": "Tefiche Neber", "chords": "1 | 6m | 1 | 3m | 1 | 4 | 5 | 1 (x2)" },
+        { "name": "Min Biye", "chords": "1 | 4 | 1 | 6m | 1 | 4 | 1 | 6m | 4 | 1 — 2m | 3m | 4 | 1" },
+        { "name": "Fikir Neh", "chords": "1 | 4 | 5 | 1 — 1 | 4 | 1" }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Tamagn Neh",
+      "artist": "Yidnekachew Teka",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "5 | 5 | 2 | 2 | 5 | 6 | 5 — 5 | 5 | 2 | 2 | 1 | 6 1 5" },
+        { "name": "Wodaje", "chords": "5 | 2 | 1 | 6 | 5 — 5 | 2 | 1 | 6 1 5" },
+        { "name": "Tamagn Neh", "chords": "3 | 2 | 3 | 2 | 2 | 5" },
+        { "name": "Midra Beda Yaworehegn", "chords": "1 | 4 | 6 | 5 — 1 | 4 | 6 | 5" },
+        { "name": "Bridge", "chords": "5 | 1 | 4 | 4 | 6 | 1 | 5" },
+        { "name": "Zarem Kome", "chords": "5 x5 — 2 | 6 | 2 | 1 | 1" },
+        { "name": "Bilohal Woy", "chords": "2 1 | x4 — 6 1 5 x2" },
+        { "name": "Egziabhier Yalew Yihonal", "chords": "1 | 4 | 6 | 5 x4" }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Bela Mihret",
+      "artist": "Rahel Alemayelhu",
+      "key": "Bbm",
+      "sections": [
+        { "name": "Intro", "chords": "GM7 | Fm7 | Ebm7 | Bbm7 x2" },
+        { "name": "Amalke Nehina", "chords": "Bbm7 | Bbm7 | Bbm7 | Db Ebm7 x2" },
+        { "name": "Bela Mihret", "chords": "Gb Fm7 | Ebm7 Db | Ab Gb F Bbm — Gb Fm7 | Ebm7 Db | Ab Gb Fm Bbm" },
+        { "name": "Bridge", "chords": "Gb | Fm7 | Ebm7 | Ebm x2" },
+        { "name": "Meche Metehina", "chords": "Bbm | Bbm | Bbm | Db Em7 — Bbm | Bbm | Bbm | Bbm Ebm7 x2" },
+        { "name": "Be Mihretih Wotelew", "chords": "Bbm | Bbm | Ebm7 | Ab — Bbm | Bbm | Ebm7 | Bbm" }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "Anni Yobikina",
+      "artist": "Tegasech Amacho",
+      "key": "C",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 2sus4 | 1 | 2sus4 | 2sus4" },
+        { "name": "Intro 2", "chords": "1 | 1 | 6 | 1 x2 — 4 | 3 | 2 | 1 x2" },
+        { "name": "Ulumisam Yohomo", "chords": "1 | 1 | 6 x3 — 1 | 1 | 1" },
+        { "name": "Anni Yobikina", "chords": "1 | 1 | 6 | 1 x2" },
+        { "name": "Bridge", "chords": "1 | 1 | 6 | 1 x2" },
+        { "name": "Dut Bela", "chords": "4 | 3 | 2 1 1 — 4 | 3 | 2 | 1" }
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Balewulataye",
+      "artist": "Bereket Tesfaye",
+      "key": "C",
+      "sections": [
+        { "name": "Intro", "chords": "2 | 1 | 2 | 1 | 1 6 1 5 | 5 | 2 | 1 | 2 | 1 | 3 | 6 | 5" },
+        { "name": "Woreket Biere", "chords": "2 1 | x4 — 5 2 | 1 5 | x2" },
+        { "name": "Balewulataye", "chords": "5 | 6 1 | 1 5 | x2" },
+        { "name": "Wuleta Alebegn", "chords": "5 | 6 1 | 1 5 | — 5 | 6 1 | 6 5 |" },
+        { "name": "Bridge", "chords": "5 | 2 | 1 | 2 | 1 | 3 | 6 1 | 1 5" },
+        { "name": "Terike Yelelew", "chords": "5 | 3 | 6 | 2 | — 1 | 1 | 6 | 6 5" },
+        { "name": "Zemir Alkegn", "chords": "D 5 | 1 5 | 1 5 | 1 5 | — 1 5 | 1 5 | 1 5 | 1 5" },
+        { "name": "Mekanitu", "chords": "2 5 | 3 AM | 1 5 | — 2 1 | 3 6 | 1 5" },
+        { "name": "Endezih New", "chords": "5 1 | x4 — 1 | 2 | 1 | 6 1 | 1 5" }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Mihmiru",
+      "artist": "Bereket Tesfaye",
+      "key": "Db",
+      "sections": [
+        { "name": "Intro", "chords": "2 | 1 6 5m 6 1 2 — 2 | 1 | 5m | 1 2" },
+        { "name": "Part 2", "chords": "2 x4" },
+        { "name": "Yemotawun", "chords": "2 1 5 6 5 6 1 2 — 2 | 5 | 5 | 1 2" },
+        { "name": "Enkuan", "chords": "2 | 2 | 2 6 | 4 | 1 | 2 — 2 | 2 | 2 | 4 | 3 | 1 2" },
+        { "name": "Bridge", "chords": "4 | 3 | 4 | 3 | 2 — 6 2 | 2" },
+        { "name": "Ager Yemiywuket", "chords": "2 | 1 | 6 | 2 | 1 | 6 2 x2" },
+        { "name": "Bedasisat", "chords": "2 1 | 6 2 x2" },
+        { "name": "Dekamegn Satil", "chords": "2 | 1 | 3 | 1 2 x2" }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Eregnaye",
+      "artist": "Bethy Wolde",
+      "key": "",
+      "sections": [
+        { "name": "Eregnaye", "chords": "1 | 6 | 3 | 4 | 3 | 2 | 5 — 1 | 6 | 3 | 4 | 3 | 2/4 5" },
+        { "name": "Bridge", "chords": "1 | 3 | 2 | 6 — 1 | 3 | 2 | 5" },
+        { "name": "Ye Nefse Nigus", "chords": "4 | 5 | 6 | 3 | 4 | 5 | 6 | 4 x2" },
+        { "name": "Midir Bitinewawot", "chords": "1 | 6 | 4 | 3 | 1 | 6 2 | 4 5 1 — 1 | 6 | 1 | 3 | 1 6 2 | 4 5 1" },
+        { "name": "Yeregegehign", "chords": "1 | 2 | 3 | 4 | x4" },
+        { "name": "Elihalehu", "chords": "1 | 6 | 4 | 3 | 2 | 5m 1 — 1 | 6 | 4 | 3 | 2 | 5 1" }
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Meberchaye",
+      "artist": "Tekeste Getinet",
+      "key": "Bb",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 1 | 6 | 3 | 4 | 3 | 2 5 1 — 6 | 3 | 2 5 1" },
+        { "name": "Yenetefaw Shalako", "chords": "1 | 1 | 6 | 3 | 2 | 3 | 4 5 1 x4" },
+        { "name": "Sidekim", "chords": "4 | 3 | 2 3 4 5 6 | 3 | 2 5 1" },
+        { "name": "Egzhibaher Ene Alew", "chords": "1 | 4 | 6 5 1" },
+        { "name": "Bridge", "chords": "1 | 4 | 6 5 1" },
+        { "name": "Mebercha", "chords": "1 | 1 | 6 | 3 | 2 | 3 | 4 5 1 — 2 | 3 | 4 5 1" }
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Agelegilihalhue",
+      "artist": "Tesfaye Chala",
+      "key": "D",
+      "sections": [
+        { "name": "Intro", "chords": "D Am | Am | D — D Am | Am D" },
+        { "name": "Edilun", "chords": "D Am | Am | D | Am | Am — D A | D | Am" },
+        { "name": "Duket Belalebet", "chords": "D | Am | Am D x2" },
+        { "name": "Agelegilalehu Kell", "chords": "D x2 — G Am Bm G Am A D" },
+        { "name": "Agelegilihalhue", "chords": "D Em | G D" }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Ati Mulam Geda",
+      "artist": "Tegasech Amacho",
+      "key": "G#m",
+      "sections": [
+        { "name": "Intro", "chords": "G#m | E | G#m | E" },
+        { "name": "Ati Mulam", "chords": "G#m | E | G#m F# B — G#m | F# | G#m F# B" },
+        { "name": "Israel Waai", "chords": "G#m | F# | B | F# | B E F# G#m x2" },
+        { "name": "Kabalam Ni Waai Gejaa", "chords": "E x4" },
+        { "name": "Bridge", "chords": "G#m | E | G#m | E" },
+        { "name": "Israel Ossina", "chords": "B | C#m | B | C#m | G#m — G#m | C#m | B | C#m | G#m" }
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Hayal Hoy",
+      "artist": "Aster Abebe",
+      "key": "A",
+      "sections": [
+        { "name": "Intro", "chords": "A - F#m - D - E x4" },
+        { "name": "Simihen Awoku", "chords": "A | F#m | D | D — A | F#m | D | C#m" },
+        { "name": "Dejihen Tenahu", "chords": "D | E F#m | Bm | C#m | — D | E | Bm A/C# D" },
+        { "name": "Abet Yalew Selam", "chords": "A | D | A C#m D | E F#m | Bm | C#m | D D" },
+        { "name": "Bridge", "chords": "A - D - C#m C#m — F#m Bm E A" },
+        { "name": "Hayal Hoy", "chords": "A | A | A | D | F#m | C#m — Bm F#m | D | E | A — F#m | D | E | A" },
+        { "name": "Be Leulu", "chords": "A | F#m | D | E — D | F#m | D | E A x2" },
+        { "name": "Astilognal", "chords": "A | F#m | Bm | D E x2" }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Zina Yegenena",
+      "artist": "",
+      "key": "Db",
+      "sections": [
+        { "name": "Intro", "chords": "2 | 1 | 2 | 1 2 x2" },
+        { "name": "Bante Des", "chords": "2 | 1M7 | 2 | 2 x2" },
+        { "name": "Ye Riste Mayazha", "chords": "2 | 1 6M | 2 | 1 2 x2" },
+        { "name": "Bridge", "chords": "2 | 1 | 2 | 1 2 x2" },
+        { "name": "Zina Yegenene", "chords": "2 | 1sus2 | 2 | 2 5 | 2 | 1M7 | 2 | 2" },
+        { "name": "Batam Guaguchalehu", "chords": "2 5sus2 1 6m | 2 | 1 2 | x2" },
+        { "name": "Tekenekegn Yelem", "chords": "2 x8" },
+        { "name": "Yemimata", "chords": "2 x8" }
+      ]
+    },
+    {
+      "id": 120,
+      "title": "Kemegegnetih",
+      "artist": "John Girma",
+      "key": "Bm",
+      "sections": [
+        { "name": "Intro", "chords": "Bm | A Asus4 Em | D G - A Bm | A | Em | G A" },
+        { "name": "Ke Afer", "chords": "Bm | G | Bm | G — D | F#m A | A | Em7" },
+        { "name": "Kemegenetih", "chords": "Bm | G | A x2" },
+        { "name": "Sebagn", "chords": "G | Bm A G | A Bm — G | Bm A G | A Bm" },
+        { "name": "Bridge", "chords": "G | Bm A | G | A Bm x2" }
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Bene Ley Mihretu",
+      "artist": "Meron Alemu",
+      "key": "Bb",
+      "sections": [
+        { "name": "Intro", "chords": "Bb | F | Gm7 F Bb | F | Gm Eb — Bb | F | Gm7 F Bb | F | Gm Eb" },
+        { "name": "Tirgum Ayigegnim", "chords": "Eb | Dm7 | Cm7 F/F7 — Eb | Dm | Bb x2" },
+        { "name": "Bane Ley", "chords": "Bb | F | Gm C/F — Bb | F | Gm Eb x2" },
+        { "name": "Bridge", "chords": "Bb | Bb | Eb | Eb Bb" }
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Ke Enatim Ke Abat",
+      "artist": "Daniel Amdemichael",
+      "key": "F#m",
+      "sections": [
+        { "name": "Intro", "chords": "F#m | Em | F#m | A | F#m | D Bm Em D" },
+        { "name": "Ke Enatim", "chords": "F#m | D | F#m | Em Bm — Em | Bm | Em | D" },
+        { "name": "Bridge", "chords": "F#m | Em | F#m | A | F#m | D Bm Em D" },
+        { "name": "Fikrun Sasib", "chords": "D | D | Bm | A | Bm F#m Em Bm Em | D x2" }
+      ]
+    },
+    {
+      "id": 123,
+      "title": "Yilal Gena",
+      "artist": "Not Kingdom Sound",
+      "key": "Fm",
+      "sections": [
+        { "name": "Intro", "chords": "Fm | Bbm | Ebm Db — Ebm Db Ebm Db Ebm Db Gb Ab x2" },
+        { "name": "Amlake Edile", "chords": "Ab Gb | Db Ab x2" },
+        { "name": "Geremegn", "chords": "Ebm | Gb | Bbsus4 — Ebm | Gb | Ab" },
+        { "name": "Wuleta Yelebet", "chords": "Ab | Gb | Db | Ab x2" },
+        { "name": "Yederegilign", "chords": "Ab | Bbm | Ebm | Bbm Ebm" },
+        { "name": "Kiber Libel", "chords": "Gb | Db | Ebm Bbm | Gb Ab — Gb | Db Ebm | Bbm | Gb Ab" },
+        { "name": "Bridge", "chords": "Ab | Fm | Bbm | Ebm Db — Ebm Db Ebm Db Ebm Db Gb Ab x2" }
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Fitihen Eshalew",
+      "artist": "",
+      "key": "Db",
+      "sections": [
+        { "name": "Mandgedihen", "chords": "5 | 3 | 6 | 2 | 1 | 5 | 3 6 | 2 | 1 — 3 | 6 | 2 | 1 | 5 | 6 | 2 | 1" },
+        { "name": "Fitihen", "chords": "3 | 6 | 4 | 1 — 5 | 3 | 6 | 4 | 1" },
+        { "name": "Ohh", "chords": "5 | 6 | 4 | 1 x4" },
+        { "name": "Fiten Feligut Belk Gize", "chords": "5 | 6 | 4 | 1 x2" },
+        { "name": "Bridge", "chords": "1 | 6 | 4 | 1 — 5 | 6 | 4 | 1" }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "Bayew",
+      "artist": "Astera Abebe",
+      "key": "Bbm",
+      "sections": [
+        { "name": "Intro", "chords": "6 2 6 | 1 | 6 — 6 | 3 | 6 | 2 | 2 2 1 | 5 | 4 5 6" },
+        { "name": "Mawudadu", "chords": "6 | 6 | 2 | 5 | 1 | 2 3 x2" },
+        { "name": "Ara Esu Gin", "chords": "6 | 2 | 1 | 3 | 2 | 3 | 4 5 6" },
+        { "name": "Bayew Bayew", "chords": "6 | 6 | 6 | 2 | 4 | 5 — 6 | 6 | 3 | 2 | 3 | 4 5 6" },
+        { "name": "Bridge", "chords": "6 | 6 | 2 | 2 | 1 | 3 | 4 5 6" },
+        { "name": "Kenoch Hedu", "chords": "3 5 6 | 2 4 3 | 2 4 5 | 3 | 6 — 6 1 4 | 5 | 2 4 3 | 2 4 5 | 3 | 6" },
+        { "name": "Min Alew Zemenu", "chords": "4 | 6 | 1 | 3 x2" },
+        { "name": "Ante Uko Hiyaw", "chords": "6 | 4 | 6 | 2" },
+        { "name": "Sitwod", "chords": "4 | 3 | 3 | 6 — 1 | 3 | 3 | 6" },
+        { "name": "Abet Tigistih", "chords": "6 | 4 | 6" }
+      ]
+    },
+    {
+      "id": 126,
+      "title": "Ante Talak Neh",
+      "artist": "Endale Woldegiorgis",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 2 | 4 | 1 — 1 | 2 | 4 5 1" },
+        { "name": "Egziabher Hoy", "chords": "1 | 1 | 2 | 5 — 1 | 3 | 4 | 1" },
+        { "name": "Ante Talak", "chords": "1 | 4 | 1 | 3 | 6 | 2 | 5 x2" },
+        { "name": "Bridge", "chords": "1 | 4 | 5 | 1 5 6 | 4 | 5 | 1" },
+        { "name": "Ka Tawot", "chords": "1 | 6 | 1 | 6 | 5 — 4 | 6 | 2 | 5 | 1 x2" },
+        { "name": "Bisalafu", "chords": "4 | 1 | 5 | 6 | 3 — 4 | 1 | 5 | 6 | 1" },
+        { "name": "Lik Yelehim", "chords": "1 5 6 | 2 | 1 5 6 | 4 5 — 2 | 5 | 2 | 4 5 1" },
+        { "name": "Simih Tilik Naw", "chords": "1 | 6 | 1 | 3 | 1 | 6 | 3 — 2 | 1 | 6 | 3 | 2 | 5 | 1" },
+        { "name": "Outro", "chords": "1 5 6 | 4 | 3 | 1 5 4 | 5 | 1" }
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Zarem Gulbetam Negn",
+      "artist": "Addisu Worku",
+      "key": "E",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 1 4 | 1 | 5 | — 4 | 3 | 2 5 1" },
+        { "name": "Geta Le Hiywot", "chords": "1 | 1 5 4 | 3 | 1 | 1 2 5 | 1" },
+        { "name": "Be Mawutat", "chords": "1 | 1 | 1 | 1 4 1 | 1 2 3 4 5 1" },
+        { "name": "Bridge", "chords": "1 | 1 4 | 1 | 5 | 4 | 3 | 2 5 1" },
+        { "name": "Verse", "chords": "1 | 1 4 | 1 | 5 | — 4 | 3 | 2 5 1" }
+      ]
+    },
+    {
+      "id": 128,
+      "title": "Yalesuma Nuero Endemayhon",
+      "artist": "Marsil TV",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "4 | 3 | 4 | 4th | 6 — 6 | 3 | 6 5m 4" },
+        { "name": "Ba Abate", "chords": "6 | 6 | 6 | 6 x2" },
+        { "name": "Erase Menged Atefa", "chords": "4 | 1m | 5 3 | 1m | 7 — 6 | 1m | 5 3 | 1m | 4" },
+        { "name": "Yalesuma Nuero", "chords": "4 | 3 | 6 | 6 | 3 | 6" },
+        { "name": "Limalas", "chords": "4 | 1m | 5 3 | 1m | 7 — 6 | 1m | 5 3 | 1m | 4" },
+        { "name": "Bridge", "chords": "3 | 3 | 4 — 3 | 3 | 4 5 6" }
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Likeh Kahine",
+      "artist": "Bereket Tesfaye",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "1 5 6 | 4 | 5 | 6 | 2 | 4 | 1 — 1 | 6 | 1 | 3 | 6 | 2 | 4 | 1" },
+        { "name": "Sidekim", "chords": "1 | 6 | 1 | 3 | 6 | 2 | 4 | 1 x2" },
+        { "name": "Likeh Kahine", "chords": "1 | 6 | 4 | 5 | 6 | 2 | 4 | 1" }
+      ]
+    },
+    {
+      "id": 130,
+      "title": "Eyesus Tewoldaolina",
+      "artist": "Sammy Tesfamichael",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "5 1 | 6 5 1 | 1 | 6 5 1 — 4 1 | 6 1 | 5 | 2 1" },
+        { "name": "Enaho", "chords": "1 4 5 6 1 4 5 1 x2 transition by 5" },
+        { "name": "Eyesus Tewoldoalina", "chords": "1 5 1 4 - 1 5 6 4" },
+        { "name": "Egziabiherin", "chords": "1 6 1 5 5 5 5 4 x2" }
+      ]
+    },
+    {
+      "id": 131,
+      "title": "Wusadew",
+      "artist": "Fenan Befikadu",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "1 5 6 4 5 1 5 6 4 1 x2" },
+        { "name": "Zelelamawi", "chords": "1 6 4 6 5 4 6 5 x2" },
+        { "name": "Wusadew", "chords": "1 5 6 5 4 x2" },
+        { "name": "Yeteredkew", "chords": "1 4 1 4 6 2 5 1 x2" },
+        { "name": "Bridge", "chords": "1 5 6 4 5 1 5 6 4 5" }
+      ]
+    },
+    {
+      "id": 132,
+      "title": "Eregnaye",
+      "artist": "Ephrem Alemu",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "1 6 1 6 1 6 1 6 | 1 — 4 | 5 | 1 | 4 | 5 | 1" },
+        { "name": "Eee Eregnaye", "chords": "1 6 1 6 1 | 4 | 5 | 1 | 1 6 1 6 1" },
+        { "name": "Bridge", "chords": "1 | 3 | 5 | 1 — 1 | 3 | 6 | 1" },
+        { "name": "Ya Dawit", "chords": "1 6 5 1 6 1 x4" },
+        { "name": "Aaa Ababiye", "chords": "4 | 6 5 1 — 1 6 5 1 6 1 1 5 1 6 1" },
+        { "name": "Masamariyan", "chords": "1 | 1 6 | 3 | 2 | 5 | 1" },
+        { "name": "Lemin Bibal", "chords": "1 6 1 6 2 2 5 6" }
+      ]
+    },
+    {
+      "id": 133,
+      "title": "Mengeden Adera",
+      "artist": "Agegnew Yideg",
+      "key": "Bb",
+      "sections": [
+        { "name": "Intro", "chords": "Bb | Bb Bb | Eb | — Bb | Bb | Bb | Eb | Bb | Bb Eb F Bb" },
+        { "name": "Belafew Zemene", "chords": "Bb | Bb | Bb | Bb | Dm | Eb | Eb | Bb | Bb | Bb | Eb" },
+        { "name": "Ahunim Getaye", "chords": "Gm | Gm | Gm | Gm | — Cm7 | F | Gm | Bb x3" },
+        { "name": "Mengeden Aderaa", "chords": "Bb | Bb | Dm | Eb F B — Bb | Gm7 | Dm7 | Cm7 | Bb x2" },
+        { "name": "Eskahun Endayew", "chords": "Bb | Bb | Bb | Bb | Bb Eb x2" },
+        { "name": "Endalbedalih", "chords": "Bb | Eb F Bb | F | Gm7 | Eb | Bb x2" }
+      ]
+    },
+    {
+      "id": 134,
+      "title": "Endih Naw",
+      "artist": "Endale Woldegiorgis",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 3th | 4 | 5 x2 — 3 6 | 2 | 2 4th 3th | 6 | 2th | 2 3th 4 1 - 4sus4" },
+        { "name": "Lane", "chords": "1 | 4th | 2th 4th 3th x2" },
+        { "name": "Mehariye", "chords": "1 | 4th | 6 | 3 x2" },
+        { "name": "Lane Egzihaber Endih Naw", "chords": "2 3 2 1 | 2 3 4 1" },
+        { "name": "Bridge", "chords": "1 | 4 | 1 | 3 | — 2 3 4 3 2 3 4 x2" },
+        { "name": "Silana Ekale", "chords": "1 | 1 | 1 | 4 6 | 3 | — 1 | 2 | 3 | 1 4 5 1" },
+        { "name": "Matalalafe", "chords": "4 | 5 | 1 x2" },
+        { "name": "Ke Kifu Batach", "chords": "1 | 6 | 3 | 4 5 1" },
+        { "name": "Animir Silu", "chords": "1 | 1 | 1 | 2 | 1 | 3 4 1 — 4 5 4 1 x2" }
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Hailegna",
+      "artist": "Agnew Yideg",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 5 | 6 | 6 — 1 | 5 | 6 5 4" },
+        { "name": "Kebrinet", "chords": "1 | 1 | 6 | 1 | 2 | 2 | 1 | 1" },
+        { "name": "Hailegna", "chords": "4 5 6 | 2 | 5 1 x2" }
+      ]
+    },
+    {
+      "id": 136,
+      "title": "Kidus Kidus",
+      "artist": "Endale Woldegiorgis",
+      "key": "A",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 6 | 4 | 5sus4 | — 1 | 6 | 4 | 1" },
+        { "name": "Ewodisihalew", "chords": "1 | 1 | 1 | 5 — 1 | 6 | 1 | 5" },
+        { "name": "Yemisganaye", "chords": "1 | 4 2 — 4 | 4 5sus4 1 x2" },
+        { "name": "Bridge", "chords": "1 | 1 | 1 | 4 | 4 | 5sus4 | 5sus4 | 1" },
+        { "name": "Endezemerku", "chords": "1 5 6 5 2 5 4 1 x2" },
+        { "name": "Ohh Minigna", "chords": "1 | 5sus4 | 4 | 5sus4" },
+        { "name": "Kidus Kidus Kidus", "chords": "5sus4 5 1 — 4 5 1" },
+        { "name": "Kidusinetihen", "chords": "1 | 3 | 2 | 1 | 6 | 4 | 5 1" },
+        { "name": "Amalkalehu", "chords": "1 5 1 1 | 1 5 5 4" },
+        { "name": "Kidus Kidus/End", "chords": "4 | 5 | 5 | 1 x2" }
+      ]
+    },
+    {
+      "id": 137,
+      "title": "Melkam Neh",
+      "artist": "Awtaru Kebede",
+      "key": "A",
+      "sections": [
+        { "name": "Intro", "chords": "5 | 2 | 2 | 5 - 5 | 3 | 6 | 2 | 1M7 | 6 | 4 | 3" },
+        { "name": "Ara Ante", "chords": "5 | 3 | 6 | 1m 2 | 1 | 6 | 4 | 3 - 5 | 3 | 6 | 2 | 1 | 6 | 4 | 5" },
+        { "name": "Bizu Gize", "chords": "2 | 1M7 | 2 | 1M7 | 5 | 6 | 4M7 | 5" },
+        { "name": "Bridge", "chords": "5 | 4M7 | 2 | 3 | 3 5m 2 | 4M7 | 5" },
+        { "name": "Eska Zare Dirasi", "chords": "5 | 3 | 6 | 2 | 1 | 2 | 1 | 3 - 6 | 2 | 6 | 2 | 1M7 | 6 | 1M7 | 3" },
+        { "name": "Yaw Neh", "chords": "5 | 4 | 1 2 4 6 | — 5 | 4M7 | 1 2 4 5" },
+        { "name": "Lane Lela", "chords": "5 | 4 | 1 | 2 | 2 1 6 | 5 x2" },
+        { "name": "Siga Labesh", "chords": "5 | 4 3 6 2 | 2 | 2 | 1 | 4M7 5 | x2" }
+      ]
+    },
+    {
+      "id": 138,
+      "title": "Keyet Endenesegn",
+      "artist": "Daniel Amdemichael",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 3 | 6 | 4 | 1 | 3 | 6 2 2 1 | — 1 3 4 1 x2" },
+        { "name": "Keyet", "chords": "1 6 4 1 | 1 | 4 5 | 1 6 4 1 | 2 3 4 5 | 2 1" },
+        { "name": "Misgana Zimare", "chords": "1 | 1 4 | 1 5 5 1 | — 1 6 4 5 | 1 6 2 5 1" },
+        { "name": "Bridge", "chords": "1 | 4 5 6 3 2 1" },
+        { "name": "Egzibher Yetedgew", "chords": "1 | 3 | 6 | 4 | 5 — 1 | 3 | 6 | 4 | 5 | 1" },
+        { "name": "Fikrun Lizamir", "chords": "1 3 4 1 | 6 3 2 1" },
+        { "name": "Makome Bersu Naw", "chords": "3 4 5 | 1" }
+      ]
+    },
+    {
+      "id": 139,
+      "title": "Endegena",
+      "artist": "Aster Abebe",
+      "key": "",
+      "sections": [
+        { "name": "Endegena", "chords": "1 | 3 | 4 | 5 | 1 | 3 | 7 5 1 x2" },
+        { "name": "Bridge", "chords": "1 | 3 | 4 | 5 — 1 | 3 | 2maj7 5 1" },
+        { "name": "Tikit Anten", "chords": "1 | 3 | 4 | 5 — 1 | 3 | 4 | 5 1" },
+        { "name": "Elat Elat", "chords": "1 | 3 6 | 4 | 5 — 1 | 3 | 4 | 5" },
+        { "name": "Bekagn", "chords": "1 | 3 | 5 | 4 | 6 — 1 | 4 2 5 | 1" },
+        { "name": "Nana Eski", "chords": "1 | 4 | 1 | 4 - 6 | 4 | 6 | 4 | 5sus4 | 1" }
+      ]
+    },
+    {
+      "id": 140,
+      "title": "Hallelujah",
+      "artist": "Aster Abebe",
+      "key": "A",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 2 | 3 | 4 5 3 4 5 6 — 2 5 1 | 1" },
+        { "name": "Beselam", "chords": "1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 3 1 5" },
+        { "name": "Demtsua Tekeyer", "chords": "1 2 1 2 1 3 4 1 — 2 5 | 1 5 | 1 3 | 4 5 1 x2" },
+        { "name": "Bridge", "chords": "1 3 5 2 | 1 3 5 1 x2" },
+        { "name": "Tebarak", "chords": "3 4 2 5 1 2 — 1 4 6 2 3 4 1 1 x2" },
+        { "name": "Tamberkike", "chords": "1 | 6 | 4 | 2 3 — 1 | 6 | 4 3 2 5" },
+        { "name": "Sikete", "chords": "1 | 2 | 3 | 4 5 — 3 4 5 6 | 2 5 1 x2" }
+      ]
+    },
+    {
+      "id": 141,
+      "title": "Bemederiya",
+      "artist": "Tekeste Getinet",
+      "key": "",
+      "sections": [
+        { "name": "Intro", "chords": "1 | 6 | 1 | 3 | 1 | 6 | 2 | 1 x2" },
+        { "name": "Ayiguwadalih", "chords": "1 | 6 | 1 | 2 | 6 | 2 | 4 3 1 x2" },
+        { "name": "Bemederiya Lay", "chords": "1 | 3 | 6 | 1 — 1 2 3 | 6 | 1" },
+        { "name": "Alegn", "chords": "1 | 2 | 4 5 1 — 6 | 2 | 4 5 1" },
+        { "name": "Bridge", "chords": "1 | 2 | 4 5 1 — 6 | 2 | 4 5 1" },
+        { "name": "Matewu", "chords": "1 5 6 | 1 | 3 x2" },
+        { "name": "Lelama Mashat", "chords": "6 | 2 | 5 | 1 x2" },
+        { "name": "Kiber Libelih", "chords": "1 4 | Bb | 2 | 5 | 1 | 4 | 3 — 6 | 3 | 2 | 1" }
+      ]
     }
   ]
 }
