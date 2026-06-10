@@ -17,6 +17,7 @@ function App(){
       <div className="sidebar">
         <div className="sidebar-header">
           <div className="app-title">♪ ChordBook</div>
+          <div className="song-count">Total: ({songs.songs.length})</div>
           <input
           className="search"
           placeholder="Search songs or artists..."
